@@ -1,4 +1,4 @@
-# Project Name
+# AWS S3 bucket API
 
 ## Table of Contents
 - [Installation](#installation)
