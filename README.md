@@ -22,5 +22,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-**Note:** Make sure to replace placeholders like `your-username` with your actual GitHub username and update any other relevant information before adding this README file to your GitHub repository.
